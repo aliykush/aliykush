@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliykush&" alt="aliykush" /></p>
 
+
+![snake gif](https://github.com/aliykush/aliykush/blob/output/github-contribution-grid-snake.gif)
