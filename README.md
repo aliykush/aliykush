@@ -1,4 +1,4 @@
-[![MasterHead](http://img.freepik.com/premium-photo/black-hat-hacker-computer-network-big-data-entry_982392-1167.jpg)
+![MasterHead](http://img.freepik.com/premium-photo/black-hat-hacker-computer-network-big-data-entry_982392-1167.jpg)
 <h1 align="center">Hi 👋, I'm Ali Kuş</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
@@ -19,6 +19,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliykush&show_icons=true&locale=en" alt="aliykush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliykush&" alt="aliykush" /></p>
+
+
+
+
+
 
 
 ![snake gif](https://github.com/aliykush/aliykush/blob/output/github-contribution-grid-snake.gif)
